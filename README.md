@@ -1,5 +1,7 @@
 #README 
 
+####Author: Giacomo Bianchi
+
 ##Description
 Weareable computing is a new area of research and a source of data for data science. The script `run_analysis.R` performs all the analysis from downloading data up to provide a tidy dataset. The steps are described below.
 
